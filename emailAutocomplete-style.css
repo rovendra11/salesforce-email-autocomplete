@@ -1,0 +1,6 @@
+.THIS .email_predictions {
+    border: 1px solid #aaa;
+    padding:5px;
+    position: absolute;		/* so that the suggestion list doesn't affect the size of the component */
+    background-color:white;
+}
